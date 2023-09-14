@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mudiakevwe Ovwurhughen.
 - 👀 I’m interested in web design and development 
-- 🌱 I’m currently learning python, javascript, django and djangorestframework
+- 🌱 I’m currently learning tailwind css and javascript. 
 - 💞️ I’m looking to collaborate on suitable projects to sharpen my skills 
 - 📫 How to reach me: https://www.linkedin.com/in/mudiakevwe-anthonio-ovwurhughen-a96a92231/
