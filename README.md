@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋, I'm Mudiakevwe</h1>
+<h1 align="center">🤩Hi there! I'm Mudiakevwe</h1>
 <h3 align="center">Backend development using NodeJs, Typescript and related technologies. Also interested in DevOps and blockchain development. Looking forward to collaborating on web and mobile projects.</h3>
 
 <div id="badges">
