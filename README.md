@@ -15,7 +15,7 @@
 
   ---
   <div align="left">
-    📫 You can reach me here: **mudianthonio27@gmail.com** <br/>
+    📫 You can reach me here: <b>mudianthonio27@gmail.com</b> <br/>
     ⚡ When I'm not coding, I read books, watch movies (Marvel and ATLA fanboy!😁), and cheer my darling team, Real Madrid CF.
   </div>
 
