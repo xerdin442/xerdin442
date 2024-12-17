@@ -1,5 +1,5 @@
 <h1 align="center">🤩Hi there! I'm Mudiakevwe</h1>
-<h3 align="center">Backend development using NodeJs, Typescript and related technologies. Also interested in DevOps and blockchain development. Looking forward to collaborating on web and mobile projects.</h3>
+<h3 align="center">Passionate backend developer specializing in NestJS and TypeScript, with expertise in building scalable, high-performance APIs and microservices. Proficient with Docker and currently expanding my knowledge of DevOps practices, including CI/CD pipelines and cloud infrastructure. Enthusiastic about blockchain development, focusing on integrating decentralized solutions into modern applications. Eager to collaborate on innovative web and mobile projects, delivering clean, efficient, and secure code. Committed to continuous learning, problem-solving, and pushing the boundaries of technology!</h3>
 
 <div id="badges">
   <!-- Corrected LinkedIn URL -->
