@@ -9,9 +9,9 @@
   </a> 
 </div>
 
-💻 **Passionate backend developer specializing in NestJS and TypeScript, with expertise in building scalable, high-performance APIs and microservices.**
+💻 **Passionate backend developer specializing in TypeScript, with expertise in building scalable, high-performance APIs and microservices.**
 
-☁️ **Proficient with Docker and currently expanding my knowledge of cloud-native technologies, including orchestration, CI/CD pipelines and cloud infrastructure.**
+☁️ **Proficient with Docker and currently expanding my knowledge of cloud-native technologies, including orchestration, observability, CI/CD pipelines and cloud infrastructure.**
 
 ⛓️ **Enthusiastic about blockchain development, focusing on integrating decentralized solutions into modern applications. Eager to collaborate on innovative web and mobile projects, delivering clean, efficient, and secure code.** 
 
