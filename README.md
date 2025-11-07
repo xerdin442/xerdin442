@@ -1,7 +1,7 @@
 <h1 align="center">🤩Hi there! I'm Mudiakevwe</h1>
 
 <div align="center">
-  <a href="https://linkedin.com/in/mudiakevwe%20ovwurhughen" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/mudiakevwe-anthonio-ovwurhughen" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/xerdin_442" target="_blank" rel="noopener noreferrer">
